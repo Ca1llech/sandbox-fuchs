@@ -1,5 +1,11 @@
 # sandbox-fuchs
 Persönlicher Experimentier- und Arbeitsraum für Fuchs
+
+Grundlage
+Diese Sandbox arbeitet im Kontext des ETHIK-KERNELS.
+Der maßgebliche Kernel befindet sich im zentralen Repository:
+Ca11lech/Systemarchitektur-Der-ETHIK-KERNEL-Teil-1-bis-3
+
 Nutzungsausschluss
 Eine Nutzung dieses Repositories und seiner Inhalte zu militärischen Zwecken — einschließlich Entwicklung, Training, Steuerung oder Einsatz von Waffensystemen — ist ausdrücklich ausgeschlossen und nicht von der CC BY-NC-SA 4.0-Lizenz gedeckt.
 
