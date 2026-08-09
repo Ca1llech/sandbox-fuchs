@@ -3,7 +3,6 @@ Persönlicher Experimentier- und Arbeitsraum für Fuchs
 Nutzungsausschluss
 Eine Nutzung dieses Repositories und seiner Inhalte zu militärischen Zwecken — einschließlich Entwicklung, Training, Steuerung oder Einsatz von Waffensystemen — ist ausdrücklich ausgeschlossen und nicht von der CC BY-NC-SA 4.0-Lizenz gedeckt.
 
-# sandbox-oppi
 # Systemarchitektur: Der ETHIK-KERNEL und die Drei Säulen der Symbiose
 
 Nutzungsausschluss
